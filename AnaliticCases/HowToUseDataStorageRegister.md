@@ -48,7 +48,7 @@
 
 ![image](https://user-images.githubusercontent.com/5235515/118367056-81feec00-b5a9-11eb-978d-b1e637a611d3.png)
 
-Листинг кода простейщей обработки тут.
+Листинг кода простейшей обработки тут.
 
 https://github.com/Kindman1980/Analitik1c/blob/main/AnaliticCases/HowToUseDataStorageRegister_ReadingEPF.txt
 
