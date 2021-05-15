@@ -48,6 +48,11 @@
 
 ![image](https://user-images.githubusercontent.com/5235515/118367056-81feec00-b5a9-11eb-978d-b1e637a611d3.png)
 
+Листинг кода простейщей обработки тут.
+
+https://github.com/Kindman1980/Analitik1c/blob/main/AnaliticCases/HowToUseDataStorageRegister_ReadingEPF.txt
+
+Обработка содержит одну команду и 2 поля, владелец (можно скопировать измерение регистра "Хранилище данных" и поле "Ключи" с типом строка. 
 
 
 
